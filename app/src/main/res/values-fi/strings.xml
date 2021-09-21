@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "app_name"> Kuva tekstiksi - AI-sovellus </string>
+    <string name = "txt_m_ore"> Kerro meille mielipiteesi tästä sovelluksesta kommenteissa </string>
+    <string name = "btn_cho_ose"> valitse </string>
+    <string name = "c_txt_clioard"> Teksti on kopioitu. </string>
+
+</resources>

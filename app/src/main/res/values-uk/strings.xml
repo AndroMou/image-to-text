@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name = "app_name"> Зображення до тексту - програма AI </string>
+    <string name = "txt_m_ore"> Повідомте нас, що ви думаєте про цю програму в коментарях </string>
+    <string name = "btn_cho_ose"> вибрати </string>
+    <string name = "c_txt_clioard"> Текст скопійовано. </string>
+</resources>

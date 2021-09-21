@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name = "app_name"> Imagem para texto - AI app </string>
+    <string name = "txt_m_ore"> Diga-nos o que você acha deste aplicativo nos comentários </string>
+    <string name = "btn_cho_ose"> escolha </string>
+    <string name = "c_txt_clioard"> O texto foi copiado. </string>
+
+</resources>

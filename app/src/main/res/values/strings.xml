@@ -1,0 +1,10 @@
+<resources>
+    <string name="txt_admob">ca-app-pub-3940256099942544/6300978111</string>
+
+
+    <string name="app_name">Image to text - AI app</string>
+    <string name="txt_m_ore">Let us know what you think of this app in the comments</string>
+    <string name="btn_cho_ose">choose</string>
+    <string name="c_txt_clioard">Text has been copied.</string>
+    Text copied.
+</resources>

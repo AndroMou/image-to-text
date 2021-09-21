@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name = "app_name"> Bild till text - AI-app </string>
+    <string name = "txt_m_ore"> Låt oss veta vad du tycker om den här appen i kommentarerna </string>
+    <string name = "btn_cho_ose"> välj </string>
+    <string name = "c_txt_clioard"> Text har kopierats. </string>
+
+</resources>

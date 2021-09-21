@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name = "app_name"> صورة إلى نص - تطبيق AI </string>
+    <string name = "txt_m_ore"> أخبرنا برأيك في هذا التطبيق في التعليقات </string>
+    <string name = "btn_cho_ose"> اختر </string>
+    <string name = "c_txt_clioard"> تم نسخ النص. </string>
+
+
+</resources>

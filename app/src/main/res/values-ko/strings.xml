@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name = "app_name"> 이미지를 텍스트로-AI 앱 </string>
+    <string name = "txt_m_ore"> 댓글을 통해이 앱에 대해 어떻게 생각하는지 알려주세요 </string>
+    <string name = "btn_cho_ose"> 선택 </string>
+    <string name = "c_txt_clioard"> 텍스트가 복사되었습니다. </string>
+
+
+</resources>
