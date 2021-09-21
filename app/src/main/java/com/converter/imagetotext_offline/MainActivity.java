@@ -72,7 +72,7 @@ public class MainActivity extends AppCompatActivity {
         dDialogChoose.setContentView(R.layout.custom_dialog_choose);
      //   final Button btnRate = dDialogMore.findViewById(R.id.btnRate);
      //   final Button btnMoreShare = dDialogMore.findViewById(R.id.btnMoreShare);
-
+//llll
         mAdView = findViewById(R.id.adView);
         adManager = new AdManager(this);
         adManager.LoadAdsBannerWithInterstitial(mAdView);
